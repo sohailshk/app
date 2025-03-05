@@ -13,6 +13,12 @@ This project implements a real-time anomaly detection system for monitoring indu
 
 ---
 
+## we have also created a website for client that is a nextjs based frontend website to attract clients below are some phots odf it we werent able to add the files here 
+![image](https://github.com/user-attachments/assets/7874b4af-56ec-448a-8f9d-cd02ea33d962)
+![image](https://github.com/user-attachments/assets/1c9a259c-8bcf-4b77-a5d5-572c10f97f5a)
+
+
+
 ## Dataset Information
 ### Context
 The dataset comprises recorded machine data of a degrading component over a 12-month period. It originates from the Vega shrink-wrapper used in large-scale food and beverage production lines.
@@ -26,6 +32,10 @@ The dataset comprises recorded machine data of a degrading component over a 12-m
   - `HHMMSS` represents the start time of recording.
   - `NUM` is the sample number.
   - `modeX` ranges from 1 to 8, representing different operational conditions.
+
+
+
+
 
 ## Methodology
 ### 1. **Dataset Curation & Preprocessing**

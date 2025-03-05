@@ -38,6 +38,9 @@ The dataset comprises recorded machine data of a degrading component over a 12-m
 
 ![Screenshot 2025-03-05 165703](https://github.com/user-attachments/assets/8b190895-23ae-4f4d-9be6-4e7a40f4d4e7)
 ![Screenshot 2025-03-05 165630](https://github.com/user-attachments/assets/998d7f11-978b-440b-8091-3885ba1f840f)
+![image](https://github.com/user-attachments/assets/147db599-affc-4a91-9e5a-eda2d86cb70c)
+![image](https://github.com/user-attachments/assets/e8a64b49-6e61-405d-8d44-4432544a6e77)
+
 
 
 

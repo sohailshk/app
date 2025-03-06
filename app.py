@@ -50,7 +50,7 @@ def send_email_anomaly_alert(anomaly_info):
     try:
         with smtplib.SMTP("smtp.gmail.com", 587) as server:
             server.starttls()
-            server.login("vibeasts01@gmail.com", "saifnasreen21")
+            server.login("vibeasts01@gmail.com", "")
             server.send_message(msg)
     except Exception as e:
         print(f"Email sending failed: {e}")
